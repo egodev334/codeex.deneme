@@ -1,0 +1,1 @@
+"""WiFi Camera Guard package."""
